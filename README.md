@@ -1,6 +1,3 @@
-# phone number validator
-# check if a phone number is valid or not.
-
 <h1 align="center">
 	<img width="250" src="https://i.ibb.co/9YC4yY6/heart3.png" height="200" alt="Donations"><p>
 </h1>
@@ -9,19 +6,19 @@
 	<b>🙌 Donate to my <a href="https://paypal.me/abderrafielamhali">Paypal</a> to help support <b>your</b> projects! 🙌</b>
 
 </p>
+# phone number validator
+# check if a phone number is valid or not.
 # Usage
 Put your phone numbers in numbers.txt
 Don't forgot to add prefix of country
-```
-example for USA
-+1xxxxxxxxx
+
+example for USA 
++1xxxxxxxxx <br>
 example for French
-+33XXXXXXX
-```
-```
++33XXXXXXX <br>
+
 Please install Python3 
 
-```
 
 # Paypal
 abderrafieovixe@outlook.fr <br>
