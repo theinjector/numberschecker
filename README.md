@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="250" src="https://i.ibb.co/9YC4yY6/heart3.png" alt="Donations"><p>
+	<img width="250" src="https://i.ibb.co/9YC4yY6/heart3.png" height="200" alt="Donations"><p>
 </h1>
 <p align="center">
 	<br><br>
