@@ -1,12 +1,11 @@
 <h1 align="center">
-	<img width="250" src="images/heart3.png" alt="Donations"><p>
+	<img width="250" src="https://i.ibb.co/9YC4yY6/heart3.png" alt="Donations"><p>
 </h1>
 
 <br>
 <p align="center">
-	<a href="https://yourdonation.rocks"><img width="185" src="images/badge.svg" alt="Badge"></a>
 	<br><br>
-	<b>🙌 Use <a href="https://yourdonation.rocks">donations</a> to help support <b>your</b> projects! 🙌</b>
+	<b>🙌 Use <a href="https://paypal.me/abderrafielamhali">donations</a> to help support <b>your</b> projects! 🙌</b>
 </p>
 <br>
 
