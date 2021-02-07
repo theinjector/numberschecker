@@ -6,7 +6,7 @@
 	<b>🙌 Donate to my <a href="https://paypal.me/abderrafielamhali">Paypal</a> to help support <b>your</b> projects! 🙌</b>
 
 </p>
-# phone number validator
+# phone number validator <br>
 # check if a phone number is valid or not. <br>
 # Usage <br>
 Put your phone numbers in numbers.txt
