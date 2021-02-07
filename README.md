@@ -7,8 +7,8 @@
 
 </p>
 # phone number validator
-# check if a phone number is valid or not.
-# Usage
+# check if a phone number is valid or not. <br>
+# Usage <br>
 Put your phone numbers in numbers.txt
 Don't forgot to add prefix of country
 
