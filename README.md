@@ -23,10 +23,10 @@ Please install Python3
 # Paypal
 abderrafieovixe@outlook.fr <br>
 # Installation & Configuration
-~ ❯❯❯ git clone https://github.com/theinjector/numberschecker/
-~ ❯❯❯ cd numberschecker/
-~ ❯❯❯ pip3 install -r requirements.txt
-~ ❯❯❯ python3 api.py
+~ git clone https://github.com/theinjector/numberschecker/ <br>
+~ cd numberschecker/ <br>
+~ pip3 install -r requirements.txt <br>
+~ python3 api.py <br>
 
 # if you want to change your api key
 
