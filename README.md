@@ -3,8 +3,11 @@
 </h1>
 <p align="center">
 	<br><br>
-	<b>🙌 Paypal <a href="https://paypal.me/abderrafielamhali">donations</a> to help support <b>your</b> projects! 🙌</b>
+	<b>🙌 Donate to my <a href="https://paypal.me/abderrafielamhali">Paypal</a> to help support <b>your</b> projects! 🙌</b>
+
 </p>
+# Paypal
+abderrafieovixe@outlook.fr
 # Installation & Configuration
 
 ```
