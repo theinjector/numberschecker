@@ -1,3 +1,6 @@
+# phone number validator
+# check if a phone number is valid or not.
+
 <h1 align="center">
 	<img width="250" src="https://i.ibb.co/9YC4yY6/heart3.png" height="200" alt="Donations"><p>
 </h1>
@@ -7,7 +10,14 @@
 
 </p>
 # Usage
-
+Put your phone numbers in numbers.txt
+Don't forgot to add prefix of country
+```
+example for USA
++1xxxxxxxxx
+example for French
++33XXXXXXX
+```
 ```
 Please install Python3 
 
