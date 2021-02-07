@@ -30,7 +30,7 @@ abderrafieovixe@outlook.fr <br>
 <h2>Change the api key every 250 requests</h2>
 # if you want to change your api key
 
-step 1: Register in https://www.abstractapi.com/ <br>
+step 1: Sign up in https://www.abstractapi.com/ <br>
 step 2: Go to phone validation api
 
 <center><img src="https://i.ibb.co/db2CJqZ/Capture-d-e-cran-2021-02-07-a-00-26-04.png"></center>
