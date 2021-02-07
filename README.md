@@ -27,7 +27,7 @@ abderrafieovixe@outlook.fr <br>
 ~ cd numberschecker/ <br>
 ~ pip3 install -r requirements.txt <br>
 ~ python3 api.py <br>
-<h2>Change the api every 250 requests</h2>
+<h2>Change the api key every 250 requests</h2>
 # if you want to change your api key
 
 step 1: Register in https://www.abstractapi.com/ <br>
